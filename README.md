@@ -1,9 +1,51 @@
-#### &#x1f4c8; My GitHub Stats
+<h2 align="center">About me</h2>
 
-<img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=royzxje&count_private=true&theme=tokyonight&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="185px" /> <img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=royzxje&layout=compact&langs_count=8&theme=tokyonight&role=OWNER,COLLABORATOR" height="185px" />
+```golang
+package main
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/royzxje/count.svg" />
-</p>
-<a href="https://app.daily.dev/ntquan"><img src="https://api.daily.dev/devcards/65b03e918b744ff0849e42c63410c1d3.png?r=wgk" width="400" alt="Royzxje's Dev Card"/></a>
+import (
+	"fmt"
+)
+
+type Bio map[string]string
+
+func main() {
+	for k, v := range GetBio() {
+		fmt.Printf("%+v: %+v\n", k, v)
+	}
+}
+
+func GetBio() Bio {
+	return Bio{
+		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
+		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
+		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
+		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
+		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
+		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
+		"- 📫 How to reach me:":              "https://github.com/royzxje#you-can-reach-me-at-alien",
+	}
+}
+```
+
+
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{royzxje}/count.svg" alt="royzxje :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royzxje&langs_count=10&theme=tokyonight&layout=compact" alt="royzxje :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=royzxje&show_icons=true&theme=synthwave" alt="royzxje :: Profile Stats" /></p>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
+
+---
+
+⭐️ From [@royzxje](https://github.com/royzxje)
