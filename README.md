@@ -40,7 +40,7 @@ const aboutMe = {
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 <h4 align="center">DevCard</h4>
-<a href="https://app.daily.dev/ntquan"><p align="center"><img src="https://api.daily.dev/devcards/65b03e918b744ff0849e42c63410c1d3.png?r=615" width="400" alt="Royzxje's Dev Card"/></p></a>
+<a href="https://app.daily.dev/ntquan"><img src="https://api.daily.dev/devcards/v2/ZP9PbHhB8FTxsuAE6bIp1.png?r=vn2" width="356" alt="Royzxje's Dev Card"/></a>
 
 ---
 
